@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 2df425bafd6497fe78be5847c6f317ff
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: jueguito bichitos cute_GO/jueguito bichitos cute_GO
+    100002: jueguito bichitos cute_GO/jueguito bichitos cute_GO/Capa5
+    100004: jueguito bichitos cute_GO/jueguito bichitos cute_GO/Capa6
+    100006: jueguito bichitos cute_GO/jueguito bichitos cute_GO/Capa7
+    100008: jueguito bichitos cute_GO/jueguito bichitos cute_GO/Capa9
+    100010: jueguito bichitos cute_GO/jueguito bichitos cute_GO/Capa10
+    400000: jueguito bichitos cute_GO/jueguito bichitos cute_GO/Transform
+    400002: jueguito bichitos cute_GO/jueguito bichitos cute_GO/Capa5/Transform
+    400004: jueguito bichitos cute_GO/jueguito bichitos cute_GO/Capa6/Transform
+    400006: jueguito bichitos cute_GO/jueguito bichitos cute_GO/Capa7/Transform
+    400008: jueguito bichitos cute_GO/jueguito bichitos cute_GO/Capa9/Transform
+    400010: jueguito bichitos cute_GO/jueguito bichitos cute_GO/Capa10/Transform
+    2800000: jueguito bichitos cute
+    21200000: jueguito bichitos cute_GO/jueguito bichitos cute_GO/Capa5/SpriteRenderer
+    21200002: jueguito bichitos cute_GO/jueguito bichitos cute_GO/Capa6/SpriteRenderer
+    21200004: jueguito bichitos cute_GO/jueguito bichitos cute_GO/Capa7/SpriteRenderer
+    21200006: jueguito bichitos cute_GO/jueguito bichitos cute_GO/Capa9/SpriteRenderer
+    21200008: jueguito bichitos cute_GO/jueguito bichitos cute_GO/Capa10/SpriteRenderer
+    21300000: f5f83bde4b036e062a38a150a7eb16ca
+    21300002: ed519ddd14dfbec8da87d3d5e5f8e0cf
+    21300004: 4e20c69ed7beeba379602fc886c1e040
+    21300006: f254cfd8ee2b4d04d90cc0c582a75982
+    21300008: 8279f2741ee1982a58a2bb890074c7b1
+    100100000: jueguito bichitos cute_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Capa6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 506
+      height: 342
+    spriteID: f5f83bde4b036e062a38a150a7eb16ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -316, y: -50}
+  - name: Capa9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 518
+      y: 4
+      width: 192
+      height: 182
+    spriteID: ed519ddd14dfbec8da87d3d5e5f8e0cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 37, y: -465}
+  - name: Capa10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 518
+      y: 194
+      width: 147
+      height: 146
+    spriteID: 4e20c69ed7beeba379602fc886c1e040
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 204, y: -203}
+  - name: Capa7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 718
+      y: 4
+      width: 165
+      height: 142
+    spriteID: f254cfd8ee2b4d04d90cc0c582a75982
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 23, y: -361}
+  - name: Capa5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 891
+      y: 4
+      width: 0
+      height: 0
+    spriteID: 8279f2741ee1982a58a2bb890074c7b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -389, y: -716}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 1024
+  documentSize: {x: 1280, y: 720}
+  textureActualWidth: 1024
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Capa6
+    spriteName: Capa6
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f5f83bde4b036e062a38a150a7eb16ca
+    layerID: 190208313
+    mosaicPosition: {x: 4, y: 4}
+  - name: Capa9
+    spriteName: Capa9
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ed519ddd14dfbec8da87d3d5e5f8e0cf
+    layerID: 190208328
+    mosaicPosition: {x: 518, y: 4}
+  - name: Capa10
+    spriteName: Capa10
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4e20c69ed7beeba379602fc886c1e040
+    layerID: -2050887856
+    mosaicPosition: {x: 518, y: 194}
+  - name: Capa7
+    spriteName: Capa7
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f254cfd8ee2b4d04d90cc0c582a75982
+    layerID: 190208314
+    mosaicPosition: {x: 718, y: 4}
+  - name: Capa5
+    spriteName: Capa5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8279f2741ee1982a58a2bb890074c7b1
+    layerID: 0
+    mosaicPosition: {x: 891, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: jueguito bichitos cute
+  prefabAssetName: jueguito bichitos cute_GO

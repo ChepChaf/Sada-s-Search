@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: f83d466c22a3e03e7982888b5bae47ec
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: nave espacial juego_GO/nave espacial juego_GO
+    100002: nave espacial juego_GO/nave espacial juego_GO/Capa1
+    100004: nave espacial juego_GO/nave espacial juego_GO/Capa3
+    100006: nave espacial juego_GO/nave espacial juego_GO/Capa8
+    100008: nave espacial juego_GO/nave espacial juego_GO/Capa9
+    100010: nave espacial juego_GO/nave espacial juego_GO/Capa10
+    100012: nave espacial juego_GO/nave espacial juego_GO/Capa13
+    100014: nave espacial juego_GO/nave espacial juego_GO/Capa14
+    400000: nave espacial juego_GO/nave espacial juego_GO/Transform
+    400002: nave espacial juego_GO/nave espacial juego_GO/Capa1/Transform
+    400004: nave espacial juego_GO/nave espacial juego_GO/Capa3/Transform
+    400006: nave espacial juego_GO/nave espacial juego_GO/Capa8/Transform
+    400008: nave espacial juego_GO/nave espacial juego_GO/Capa9/Transform
+    400010: nave espacial juego_GO/nave espacial juego_GO/Capa10/Transform
+    400012: nave espacial juego_GO/nave espacial juego_GO/Capa13/Transform
+    400014: nave espacial juego_GO/nave espacial juego_GO/Capa14/Transform
+    2800000: nave espacial juego
+    21200000: nave espacial juego_GO/nave espacial juego_GO/Capa1/SpriteRenderer
+    21200002: nave espacial juego_GO/nave espacial juego_GO/Capa3/SpriteRenderer
+    21200004: nave espacial juego_GO/nave espacial juego_GO/Capa8/SpriteRenderer
+    21200006: nave espacial juego_GO/nave espacial juego_GO/Capa9/SpriteRenderer
+    21200008: nave espacial juego_GO/nave espacial juego_GO/Capa10/SpriteRenderer
+    21200010: nave espacial juego_GO/nave espacial juego_GO/Capa13/SpriteRenderer
+    21200012: nave espacial juego_GO/nave espacial juego_GO/Capa14/SpriteRenderer
+    21300000: de5fbe8363e2cc08b86b6657b38414b6
+    21300002: 32c926c070ebe3de58b98adab5e19ccc
+    21300004: 5600254de62548cc88a8f15263370a1a
+    21300006: f4e15b5e5b73c4b0e93bad2d0b351407
+    21300008: 19c7b4d321510d755be159054cb133a2
+    21300010: 7e54afc4fe1b55b96847dc3600ea291d
+    21300012: 8ac19df4576053971942451751662f53
+    100100000: nave espacial juego_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Capa10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 578
+      y: 403
+      width: 91
+      height: 211
+    spriteID: de5fbe8363e2cc08b86b6657b38414b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -189, y: 328}
+  - name: Capa9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 222
+      y: 597
+      width: 107
+      height: 212
+    spriteID: 32c926c070ebe3de58b98adab5e19ccc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 531}
+  - name: Capa3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 359
+      height: 585
+    spriteID: 5600254de62548cc88a8f15263370a1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -456, y: -129}
+  - name: Capa8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 371
+      y: 4
+      width: 199
+      height: 297
+    spriteID: f4e15b5e5b73c4b0e93bad2d0b351407
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -527, y: -216}
+  - name: Capa1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 597
+      width: 210
+      height: 296
+    spriteID: 19c7b4d321510d755be159054cb133a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -188, y: 380}
+  - name: Capa14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 578
+      y: 4
+      width: 247
+      height: 193
+    spriteID: 7e54afc4fe1b55b96847dc3600ea291d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -156, y: -274}
+  - name: Capa13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 578
+      y: 205
+      width: 250
+      height: 190
+    spriteID: 8ac19df4576053971942451751662f53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 301, y: -71}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 1024
+  documentSize: {x: 1280, y: 720}
+  textureActualWidth: 1024
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Capa10
+    spriteName: Capa10
+    isGroup: 0
+    parentIndex: -1
+    spriteID: de5fbe8363e2cc08b86b6657b38414b6
+    layerID: -2050887856
+    mosaicPosition: {x: 578, y: 403}
+  - name: Capa9
+    spriteName: Capa9
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 32c926c070ebe3de58b98adab5e19ccc
+    layerID: 190208328
+    mosaicPosition: {x: 222, y: 597}
+  - name: Capa3
+    spriteName: Capa3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5600254de62548cc88a8f15263370a1a
+    layerID: 190208318
+    mosaicPosition: {x: 4, y: 4}
+  - name: Capa8
+    spriteName: Capa8
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f4e15b5e5b73c4b0e93bad2d0b351407
+    layerID: 190208327
+    mosaicPosition: {x: 371, y: 4}
+  - name: Capa1
+    spriteName: Capa1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 19c7b4d321510d755be159054cb133a2
+    layerID: 190208320
+    mosaicPosition: {x: 4, y: 597}
+  - name: Capa14
+    spriteName: Capa14
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7e54afc4fe1b55b96847dc3600ea291d
+    layerID: 274710972
+    mosaicPosition: {x: 578, y: 4}
+  - name: Capa13
+    spriteName: Capa13
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8ac19df4576053971942451751662f53
+    layerID: 0
+    mosaicPosition: {x: 578, y: 205}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: nave espacial juego
+  prefabAssetName: nave espacial juego_GO
